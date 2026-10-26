@@ -44,7 +44,7 @@ rng(12345);
 N = 5;
 
 sigmaPhi = 0.015;     % rad
-nRealizations = 50;
+nRealizations = 200;
 nStarts = 3;
 
 minProminence_pm = 1.0;
