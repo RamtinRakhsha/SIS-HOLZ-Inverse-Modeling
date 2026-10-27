@@ -7,7 +7,7 @@
 % The test uses:
 %   - a smooth asymmetric surface-relaxed displacement profile,
 %   - 3 sine depth modes,
-%   - 1 percent complex-wave RMS noise,
+%   - 1% complex-wave RMS noise,
 %   - fixed optical parameters,
 %   - lsqnonlin fitting of the displacement coefficients only.
 %
