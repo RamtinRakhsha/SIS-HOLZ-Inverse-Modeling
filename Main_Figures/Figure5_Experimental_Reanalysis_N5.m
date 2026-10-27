@@ -5,11 +5,10 @@
 %
 %   (1) HISTORICAL REFERENCE
 %       Reproduces the previously used analytical bell-profile calculation
-%       from NoBiprism_DBI_bell_split_USED4paper.m.
 %       That old plotting script contains t = 200 nm.
 %
 %   (2) NEW GENERALIZED INVERSION
-%       Fits the ORIGINAL ExPhase.txt data using the generalized numerical
+%       Fits the ORIGINAL EXPERIMENTAL ExPhase.txt data using the generalized numerical
 %       forward model and the final published experimental thickness
 %       t = 166 nm.
 %
