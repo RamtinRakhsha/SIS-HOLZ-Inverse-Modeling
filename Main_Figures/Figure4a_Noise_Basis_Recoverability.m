@@ -1,7 +1,6 @@
 % FIGURE 3a
 % Noise sensitivity and individual depth mode recoverability
 %
-% Corrected publication study:
 % Each synthetic test contains one known depth mode with the same
 % amplitude. The inverse fit recovers the coefficient of that mode.
 % This directly tests whether finer depth modes become less recoverable.
